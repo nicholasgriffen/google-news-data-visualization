@@ -1,7 +1,5 @@
 # Introduction to Web Scraping 
 
-Brought to you by Galvanize [galvanize.com](http://galvanize.com).
-
 ## What this repository is
 
 A practical, interactive, beginner-friendly introduction to Python, web scraping, sentiment analysis, and data visualization. No previous experience required, but we will cover a ton of material quickly. The bulk of the material is in a Python Notebook created with Google Colab.
@@ -92,3 +90,6 @@ We'll use [pandas](https://pandas.pydata.org/) to do some analysis and visulizat
 ##### NLTK
 
 We'll use [NLTK](https://www.nltk.org/)(Natural Language Toolkit) to do some simple natural language processing on some text. 
+
+
+Brought to you by [Galvanize](http://galvanize.com)
