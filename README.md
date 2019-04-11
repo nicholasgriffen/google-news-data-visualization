@@ -6,6 +6,10 @@ A practical, interactive, beginner-friendly introduction to Python, web scraping
 
 You can't learn EVERYTHING here, but you can learn enough to get excited and comfortable to keep working and learning on your own! By the end of the course, you'll have a tool you can start using today, and place to get started from building your own tools. 
 
+You will start with no data, and make this Bar Graph Showing Vail, CO Headline Sentiment: 
+
+![Image of Bar Graph Showing Vail, CO Headline Sentiment](vailSentiment.png)
+
 #### Getting Started:
 
 ##### Tools 
