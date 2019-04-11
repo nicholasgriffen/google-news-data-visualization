@@ -8,13 +8,16 @@ You can't learn EVERYTHING here, but you can learn enough to get excited and com
 
 #### Getting Started:
 
-##### Requirements 
-Web browser, or some way to open a Python Notebook.
+##### Tools 
 
-* We will be using Google Colab. Colab provides a text editor, Python runtime, code completion, and other cool features. In other words, it's an IDE (Integrated Development Environment). 
+1) Web browser to use Google Colab, or your own way to open a Python Notebook.
 
-You can open the Colab notebook directly from this link: [https://colab.research.google.com/github/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb](https://colab.research.google.com/github/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb)
-Or open the copy from this repo in Colab by going to File > Open Notebook > Github and pasting this URL `https://github.com/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb`
+2) Python Notebook Open in one of three ways: 
+	1) You can open the Colab notebook directly from this link: [https://colab.research.google.com/github/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb](https://colab.research.google.com/github/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb)
+	2) Or open the copy from this repo in Colab by going to File > Open Notebook > Github and pasting this URL `https://github.com/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb`
+	3) Or click the "Open in Colab" button here: [https://github.com/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb](https://github.com/nicholasgriffen/intro-web-scraping/blob/master/NewsPageAnalysis.ipynb)
+
+
 
 Make a copy by clicking `file` and `make copy` or `save to drive`
 
