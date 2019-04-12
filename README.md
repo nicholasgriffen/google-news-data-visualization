@@ -75,7 +75,6 @@ Learn more HTML [here](https://www.w3schools.com/Html/)
 - Go to a web page
 - right click
 - select `inspect element	`
-- you should not see a pop up or frame showing the HTML of a web page.
 
 
 ### Python
