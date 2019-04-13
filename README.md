@@ -1,4 +1,4 @@
-# Introduction to Web Scraping 
+# Google News Data Visualization
 
 ## What this repository is
 
@@ -79,7 +79,7 @@ Learn more HTML [here](https://www.w3schools.com/Html/)
 
 ### Python
 
-We're going to be using python to do our web scraping. Below are external modules used in the Notebook.
+We're going to use Python to do our data collection. Below are external modules used in the Notebook.
 
 ##### Requests
 
